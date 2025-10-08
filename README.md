@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/heds.png" alt="TryHackMe Badge" width="300"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/heds.png" alt="TryHackMe Badge" width="500"/>
 
 <!--
 **hedslvrz/hedslvrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
